@@ -1,6 +1,6 @@
 
-Active Directory Home Lab: Creation & Security Hardening
-🛡️ Project Overview
+#Active Directory Home Lab: Creation & Security Hardening
+##🛡️ Project Overview
 This project documents the end-to-end creation, configuration, and security hardening of a Windows-based Active Directory (AD) environment. The lab was designed to simulate an enterprise infrastructure, incorporating professional administrative workflows and strict adherence to international security frameworks including ISO 27001, NIST CSF, and CIS Controls.
 
 Core Objectives
